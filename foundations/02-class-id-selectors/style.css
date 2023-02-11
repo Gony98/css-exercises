@@ -1,0 +1,26 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.class-1 {
+    background-color: pink;
+
+}
+
+.class-2 {
+    font-size: 32px ;
+}
+
+#gay {
+
+    font-size: 40px ;
+    color: blue;
+
+}
+
+#homo {
+
+    background-color: green;
+    font-weight: bold;
+    
+}
